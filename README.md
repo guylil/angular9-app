@@ -1,10 +1,17 @@
-# Angular91app
+# Angular 9.1 app
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+This is a front-end app for a library written with Angular 9.1 
+
+
+
+
+
+
+
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
 ## Code scaffolding
 
